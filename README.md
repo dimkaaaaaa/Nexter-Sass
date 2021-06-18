@@ -1,1 +1,1 @@
-# Nexter-Sass
+# Nexter
